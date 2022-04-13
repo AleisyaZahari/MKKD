@@ -1,8 +1,10 @@
+/* Aleisya bagian main */
+
 main{
     background-image: url(https://cdn.pixabay.com/photo/2017/01/20/00/30/maldives-1993704_960_720.jpg);
     background-size: cover;
     padding: 100px;
-    height: 450px;
+    height: 250px;
 }
 .container h1{
     color:#f5f6fa;
@@ -10,7 +12,7 @@ main{
     padding-bottom: 50px;
     padding-top: 50px;
     font-size: 60px;
-    bakcground-color: none;
+    bakcground-color: #ced6e0;
 }
 
 .container{
@@ -29,15 +31,16 @@ main{
 .btn-wrapper p{
     margin: 20px 0;
     font-family:rubik;
-    font-size: 20px;
-    color: white;
+    font-size: 25px;
 }
 
 .start a{
     background-color:#4a69bd;
-    padding: 10px;
-    borede-radius: 8px;
+    font-size: 20px;
+    padding: 15px;
+    border-radius: 8px;
     color: white;
     opacity:0.8;
-    font-family:"Grape Nuts";
+    font-style:"Grape nuts";
 }
+
