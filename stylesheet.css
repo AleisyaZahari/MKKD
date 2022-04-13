@@ -2,6 +2,7 @@ main{
     background-image: url(https://cdn.pixabay.com/photo/2017/01/20/00/30/maldives-1993704_960_720.jpg);
     background-size: cover;
     padding: 100px;
+    height: 100px;
 }
 h1{
     color:#f5f6fa;
@@ -19,13 +20,14 @@ h1{
 .container p{
     font-size: 25px;
 }
+
 .btn-wrapper{
     text-align: center;
 }
 
 p{
     margin: 20px 0;
-    font-family:arial;
+    font-family:rubik;
 }
 
 a{
