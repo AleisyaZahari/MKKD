@@ -7,7 +7,8 @@ h1.{
     color:#f5f6fa;
     font-family: Arial;
     background-color:beige;
-    padding: 50px 0;
+    padding-bottom: 50px;
+    padding-top: 50px;
     font-size: 60px;
 }
 .container{
