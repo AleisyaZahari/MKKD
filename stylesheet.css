@@ -10,6 +10,7 @@ main{
     padding-bottom: 50px;
     padding-top: 50px;
     font-size: 60px;
+    bakcground-color: none;
 }
 
 .container{
@@ -30,7 +31,7 @@ main{
     font-size: 20px;
 }
 
-a{
+.start a{
     background-color:#4a69bd;
     padding: 40px;
     borede-radius: 8px;
