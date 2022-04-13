@@ -21,6 +21,7 @@ main{
 
 .container p{
     font-size: 25px;
+    color: white;
 }
 
 .btn-wrapper{
@@ -31,6 +32,7 @@ main{
     margin: 20px 0;
     font-family:rubik;
     font-size: 25px;
+    color: white;
 }
 
 .start a{
