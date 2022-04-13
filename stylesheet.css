@@ -43,5 +43,13 @@ main{
     color: white;
     opacity:0.8;
     font-style:"Grape nuts";
+    box-shadow: 0 7px #1e3799;
 }
+
+.start a:active{
+    box-shadow:none;
+    top:7px;
+    position:relative;
+}
+
 
