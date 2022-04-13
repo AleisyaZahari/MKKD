@@ -2,7 +2,7 @@ main{
     background-image: url(https://cdn.pixabay.com/photo/2017/01/20/00/30/maldives-1993704_960_720.jpg);
     background-size: cover;
     padding: 100px;
-    height: 180px;
+    height: 250px;
 }
 .container h1{
     color:#f5f6fa;
@@ -19,6 +19,7 @@ main{
 
 .container p{
     font-size: 25px;
+    color:white;
 }
 
 .btn-wrapper{
@@ -33,7 +34,8 @@ main{
 
 .start a{
     background-color:#4a69bd;
-    padding: 40px;
+    padding: 10px;
     borede-radius: 8px;
     color: white;
+    opacity:0.8;
 }
