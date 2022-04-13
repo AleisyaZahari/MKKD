@@ -4,7 +4,7 @@ main{
     padding: 100px;
     height: 100px;
 }
-h1{
+.container h1{
     color:#f5f6fa;
     font-family: Arial;
     background-color:beige;
@@ -25,7 +25,7 @@ h1{
     text-align: center;
 }
 
-p{
+.btn-wrapper p{
     margin: 20px 0;
     font-family:rubik;
 }
